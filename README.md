@@ -1,5 +1,9 @@
 # X-Wing
 
+<img width="1278" height="708" alt="Screenshot 2026-10-19 031713" src="https://github.com/user-attachments/assets/031949dc-0987-4f22-b74e-843c6b14057a" />
+<img width="1052" height="587" alt="Screenshot 2026-10-19 031648" src="https://github.com/user-attachments/assets/f7dae189-e627-4ab7-b611-eed8da7a508d" />
+
+
 A 3D model of an X-wing that I made in Autodesk Fusion.
 
 ## About this project
