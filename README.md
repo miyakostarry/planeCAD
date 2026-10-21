@@ -1,4 +1,4 @@
-# X-Wing
+# X-Wing  -- STAR WARS!!
 
 <img width="1278" height="708" alt="Screenshot 2026-10-19 031713" src="https://github.com/user-attachments/assets/031949dc-0987-4f22-b74e-843c6b14057a" />
 <img width="1052" height="587" alt="Screenshot 2026-10-19 031648" src="https://github.com/user-attachments/assets/f7dae189-e627-4ab7-b611-eed8da7a508d" />
@@ -32,6 +32,8 @@ After that I kept going on my own and added more detail. I added panel lines on 
 I want to try making it fly someday, maybe as a small quadcopter with a motor at each wing tip.
 
 well here i'll most probably take my seniors help if i'm gonna makw one 
+
+ps-- i really wanted to build star wars faclon millenium but but, i hardly had much time left so i couldn't figure out but now ig ik how i can make it not that close to the original model but.....maybe next time 
 
 
 THANKYOU!!
